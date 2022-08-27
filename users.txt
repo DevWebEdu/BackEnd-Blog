@@ -1,0 +1,12 @@
+de 3 a 5
+{
+    "password":"root",
+    "email":"elunameza@gmail.com",
+    "result": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyZmYyMTM3Mjg3N2M2NGEwYTQ3Y2U0YSIsImlhdCI6MTY2MDk0NzUxOSwiZXhwIjoxNjYwOTU0NzE5fQ.JyV82parPt5Kh1GGR8cAzNtY_giV0AMQeCfIGsypjSw"
+}
+
+{
+    "password":"root",
+    "email":"elvirameza06@gmail.com",
+    "result": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyZmZjYzU2MWY5ODFmNWRjZmQxMjE2MSIsImlhdCI6MTY2MDk0MDYzNSwiZXhwIjoxNjYwOTQ3ODM1fQ.Iz7Bpwf5GlZeeyYB34Zor-f1Eay_uN5fFS-ZS4YgN3s"
+}
